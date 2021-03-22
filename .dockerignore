@@ -1,0 +1,11 @@
+**
+
+!api/
+!api_yamdb/
+!data/
+!manage.py
+!requirements.txt
+
+__pycache__/
+*.py[cod]
+*$py.class
