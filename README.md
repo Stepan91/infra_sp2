@@ -1,4 +1,4 @@
-# The YAMbd's container
+# The YAMdb's container
 
 The container contains the backend of a social network service for sharing impressions of movies, music and books
 
