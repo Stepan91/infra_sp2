@@ -1,4 +1,4 @@
-# YaMDB 
+# YAMdb 
 Is the base of user reviews about movies, books, music.
 This is a REST API for it.
 
